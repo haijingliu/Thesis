@@ -1,0 +1,20 @@
+{
+	"author":"Haijing Liu",
+	"license":"BSD",
+	"name":"copterWish",
+	"version":"1.0.0",
+	"description":"physical interface manipulating twitter livestreaming data",
+	"dependencies":{
+    "ws":"*",
+    "socket.io":"0.9.6",
+    "connect":"1.9.2",
+    "twit":"*",
+    "serialport":"*"
+	},
+
+	"engines":{
+    "node":"v0.10.28",
+    "npm":"1.4.9"
+	}
+
+}

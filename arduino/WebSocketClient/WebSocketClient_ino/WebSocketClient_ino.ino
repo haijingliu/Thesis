@@ -10,7 +10,7 @@ bool connect(const char *hostname, const char *path="/", uint16_t port=80);
 //SoftwareSerial wifiSerial(8,9);
 WiFly wifly;
 
-const char mySSID[] = "AP0N"; //"DATA_RU$H"
+const char mySSID[] = "AP0N"; //"DATA_RU$H"(Thank You DataRUSHHHHHHHHHHHHH!!!!!!!!!!!!)
 const char myPassword[] = "";
 
 char server[] = "192.168.1.102";

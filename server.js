@@ -1,12 +1,8 @@
-var io = require('socket.io'),
-var connect = require('connect'),
-var Twit =reuqire(''),
-ws = reuqire('ws'),
+var io = require('socket.io'), //socket io allows the real time communication via twitter stream
+var connect = require('connect'), // Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
+var Twit =reuqire('twit'),//Twitter API client for node (REST & Streaming)
+ws = reuqire('ws'),  //requring websocket, only websocket provides a tcp transmission protocol, that allows arduino sensorData talks client
 net =require('net');
-
-
-
-
 
 var T = new Twit({
 

@@ -4,4 +4,4 @@ Internet Data is from Twitterstreaming live data
 Physical Interface is designed with an arduinoFio, RN-XV WiFly Module and a triple axis accelerometer
 
 for more information please check:
-haijing.info/thesis
+http://haijing.info/Portfolio/?page=copterwish

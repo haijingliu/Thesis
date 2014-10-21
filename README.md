@@ -6,7 +6,7 @@ The internet Data is from Twitterstreaming live data, I used a npm module for RE
 
 Physical Interface is designed with an arduinoFio（http://arduino.cc/en/Main/ArduinoBoardFio), RN-XV WiFly Module (https://www.sparkfun.com/products/10822) and a triple axis accelerometer（https://www.sparkfun.com/products/9269） 
 
-I get the data from z-pin of from accelerometer. since, twitter datavis is on the client side which means a communication requirement of Transmission Control Protocol. In this case, I require the websocket API that provides full-duplex communications channels over a single TCP connection, and allows sensorData get handshake with the client.
+I get the data from z-pin of from accelerometer. since, a real-time twitter datavis requires a communication of Transmission Control Protocol. In this case, I required the websocketAPI that provides full-duplex communication channels over TCP connection, and allows my physical interface sensorData get handshake with the server.
 
 
 for more information please check:

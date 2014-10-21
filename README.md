@@ -11,3 +11,4 @@ I get the data from z-pin of from accelerometer. since, twitter datavis is on th
 
 for more information please check:
 http://haijing.info/Portfolio/?page=copterwish
+

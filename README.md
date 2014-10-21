@@ -12,6 +12,6 @@ for more information please check:
 http://haijing.info/Portfolio/?page=copterwish
 
 
-especial Thanks to Joe Saavedra https://github.com/jmsaavedra for tech side Instructions and Wen Ting Zhang https://github.com/wentin
+especial Thanks to Joe Saavedra https://github.com/jmsaavedra for tech side Instructions, Wen Ting Zhang https://github.com/wentin
 
 

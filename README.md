@@ -9,8 +9,4 @@ In order to make the interface and internet connect via a wifi environment , I u
 I get the Z-rotation data on the accelerometer. since, a real-time twitter datavis requires a communication of Transmission Control Protocol. In this case, I required the websocketAPI that provides full-duplex communication channels over TCP connection, and allows my physical interface sensorData get handshake with the server.
 
 for more information please check:
-http://haijing.info/Portfolio/?page=copterwish
-
-
-special Thanks to Joe Saavedra https://github.com/jmsaavedra for tech side Instructions and Wen Ting Zhang https://github.com/wentin for web interface development
-
+http://haijing.herokuapp.com/?page=copterwish

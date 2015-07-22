@@ -1,7 +1,7 @@
 {
 	"author":"Haijing Liu",
 	"license":"BSD",
-	"name":"copterWish",
+	"name":"WishMessage",
 	"version":"1.0.0",
 	"description":"physical interface manipulating twitter livestreaming data",
 	"dependencies":{
